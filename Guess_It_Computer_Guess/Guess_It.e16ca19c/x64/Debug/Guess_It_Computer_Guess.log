@@ -1,0 +1,48 @@
+﻿  game.cpp
+  game_object.cpp
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\core\game_object.cpp(15,133): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\core\game_object.cpp(15,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  game_state_manager.cpp
+  input_handle.cpp
+  main.cpp
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\core\const.h(7,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'core/main.cpp')
+  
+  texture_manager.cpp
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\core\texture_manager.cpp(83,22): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\core\texture_manager.cpp(83,24): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\core\texture_manager.cpp(83,26): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\core\texture_manager.cpp(83,28): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+  vector2D.cpp
+  menu_button.cpp
+  game_over.cpp
+D:\Code\C++\Project\Robin\core\const.h(7,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'state/game_over.cpp')
+  
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\game_over.cpp(45,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\game_over.cpp(45,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  menu_state.cpp
+D:\Code\C++\Project\Robin\core\const.h(7,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'state/menu_state.cpp')
+  
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\menu_state.cpp(41,93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\menu_state.cpp(41,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  play_state.cpp
+D:\Code\C++\Project\Robin\core\const.h(7,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'state/play_state.cpp')
+  
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\play_state.cpp(362,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\play_state.cpp(362,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\play_state.cpp(363,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\play_state.cpp(363,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\play_state.cpp(364,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\play_state.cpp(364,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  victory.cpp
+D:\Code\C++\Project\Robin\core\const.h(7,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'state/victory.cpp')
+  
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\victory.cpp(45,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\victory.cpp(45,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\nguye\Desktop\Guess_It_Computer_Guess\state\play_state.cpp(365,1): warning C4715: 'Play_state::on_start': not all control paths return a value
+  Guess_It_Computer_Guess.vcxproj -> C:\Users\nguye\Desktop\Guess_It_Computer_Guess\x64\Debug\Guess_It_Computer_Guess.exe
